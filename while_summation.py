@@ -1,1 +1,2 @@
-#while summation code following directions from Readme
+num = input
+x = 
